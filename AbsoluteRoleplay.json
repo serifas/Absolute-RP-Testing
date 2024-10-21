@@ -19,8 +19,8 @@
     "LoadPriority": 0,
     "Punchline": "A plugin for creating profiles and sharing them, with more to come!",
     "AcceptsFeedback": true,  
-    "DownloadLinkInstall": "https://github.com/serifas/Absolute-RP-Testing/raw/refs/heads/main/latest.zip",
-    "DownloadLinkTesting": "https://github.com/serifas/Absolute-RP-Testing/raw/refs/heads/main/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/serifas/Absolute-RP-Testing/raw/refs/heads/main/latest.zip"
+    "DownloadLinkInstall": "https://github.com/serifas/Absolute-RP-Testing/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/serifas/Absolute-RP-Testing/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/serifas/Absolute-RP-Testing/raw/main/latest.zip"
   }
 ]
