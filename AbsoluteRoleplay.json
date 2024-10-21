@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Lynie",
+    "Name": "Absolute Roleplay",
+    "InternalName": "AbsoluteRoleplay",
+    "AssemblyVersion": "0.0.0.2",
+    "Description": "Use /absolute or the settings button to open.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/serifas/AbsoluteRP",
+    "Tags": [
+      "Absolute",
+      "Roleplay",
+      "RP"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A plugin for creating profiles and sharing them, with more to come!",
+    "AcceptsFeedback": true,  
+    "DownloadLinkInstall": "https://cf.maresynchronos.com/release/0.10.10.zip",
+    "DownloadLinkTesting": "https://cf.maresynchronos.com/release/0.10.10.zip",
+    "DownloadLinkUpdate": "https://cf.maresynchronos.com/update/0.10.10.zip"
+  }
+]
